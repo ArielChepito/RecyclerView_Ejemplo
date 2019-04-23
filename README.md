@@ -9,5 +9,5 @@ Librerias:
 
 * Recycler View.
 * Card View.
-* Click Event.
+* Click Event with interface.
 
